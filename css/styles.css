@@ -78,3 +78,36 @@ h1 {
 .feature-detail {
   color: #8f8f8f;
 }
+
+/* Testimonials */
+#testimonials {
+  text-align: center;
+  background-color: #FF4C68;
+  padding: 7% 15%;
+  color: #fff;
+}
+
+.testimonial-img {
+  width: 10%;
+  border-radius: 100%;
+  padding: 20px;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  line-height: 1.5;
+  font-size: 3rem;
+}
+
+/* Press */
+#press {
+  text-align: center;
+  background-color: #FF4C68;
+  padding-bottom: 7%;
+}
+
+.press-logo {
+  width: 12%;
+  margin: 20px 50px;
+}
