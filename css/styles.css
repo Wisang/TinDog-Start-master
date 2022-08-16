@@ -114,3 +114,9 @@ h2 {
   width: 12%;
   margin: 20px 50px;
 }
+
+/* Pricing */
+#pricing {
+  text-align: center;
+  padding: 7% 15%;
+}
