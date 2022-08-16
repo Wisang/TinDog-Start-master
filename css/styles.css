@@ -118,5 +118,21 @@ h2 {
 /* Pricing */
 #pricing {
   text-align: center;
+  padding: 100px;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+/* CTA */
+#cta {
+  background-color: #FF4C68;
+  text-align: center;
+  padding: 5% 0 0 0;
+}
+
+#footer {
+  text-align: center;
   padding: 7% 15%;
 }
