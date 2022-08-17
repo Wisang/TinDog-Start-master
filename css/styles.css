@@ -51,6 +51,18 @@ h1 {
   right: 24%;
 }
 
+@media (max-width: 1020px) {
+  .title-image {
+    position: static;
+    transform: rotate(0deg);
+    width: 50%;
+  }
+
+  #title {
+    text-align: center;
+  }
+}
+
 /* feature */
 #features {
   padding: 7% 15%;
@@ -135,9 +147,20 @@ h2 {
   background-color: #FF4C68;
   text-align: center;
   padding: 5% 0 0 0;
+  color: #fff;
+}
+
+.cta-title {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: 900;
 }
 
 #footer {
   text-align: center;
   padding: 7% 15%;
+}
+
+.contact {
+  margin: 10px;
 }
