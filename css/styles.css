@@ -51,18 +51,6 @@ h1 {
   right: 24%;
 }
 
-@media (max-width: 1020px) {
-  .title-image {
-    position: static;
-    transform: rotate(0deg);
-    width: 50%;
-  }
-
-  #title {
-    text-align: center;
-  }
-}
-
 /* feature */
 #features {
   padding: 7% 15%;
@@ -163,4 +151,16 @@ h2 {
 
 .contact {
   margin: 10px;
+}
+
+@media (max-width: 1020px) {
+  .title-image {
+    position: static;
+    transform: rotate(0deg);
+    width: 50%;
+  }
+
+  #title {
+    text-align: center;
+  }
 }
